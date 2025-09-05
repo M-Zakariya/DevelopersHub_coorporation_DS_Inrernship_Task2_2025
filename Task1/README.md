@@ -1,3 +1,5 @@
+**Task 1**: Term Deposit Subscription Prediction (Bank Marketing)
+
 **Task Objective**:
                   Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign.
 
@@ -9,7 +11,7 @@
                 Data Visualization
                 Model development/Training
                 Model Evaluation
-                Interpretability
+                Interpretability (SHAP)
 
 **Result and finding**:
                       The models (Logistic Regression and Random Forest) performed reasonably well, with ROC-AUC values of 0.90 and 0.91, respectively.
